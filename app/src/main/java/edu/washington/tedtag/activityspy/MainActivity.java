@@ -16,7 +16,11 @@ public class MainActivity extends ActionBarActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        Log.i(TAG, "onCreate event fired");
+        if(savedInstanceState != null && !savedInstanceState.toString().isEmpty()) {
+            Log.i(TAG, "onCreate event fired: " + savedInstanceState.toString());
+        } else {
+            Log.i(TAG, "onCreate event fired");
+        }
     }
 
     @Override
