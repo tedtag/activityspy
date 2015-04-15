@@ -1,9 +1,3 @@
-04-14 23:58:45.409    2232-2232/edu.washington.tedtag.activityspy I/MainActivity﹕ onCreate event fired
-04-14 23:58:45.456    2232-2232/edu.washington.tedtag.activityspy I/MainActivity﹕ onStart event fired
-04-14 23:58:45.457    2232-2232/edu.washington.tedtag.activityspy I/MainActivity﹕ onResume event fired
-04-14 16:58:48.230    2232-2232/edu.washington.tedtag.activityspy I/MainActivity﹕ onPause event fired
-04-14 16:58:48.231    2232-2232/edu.washington.tedtag.activityspy I/MainActivity﹕ onStop event fired
-04-14 16:58:48.231    2232-2232/edu.washington.tedtag.activityspy E/MainActivity﹕ We're going down, Captain!
 04-14 16:58:48.242    2232-2232/edu.washington.tedtag.activityspy I/MainActivity﹕ onCreate event fired: Bundle[{android:viewHierarchyState=Bundle[{android:views={16908290=android.view.AbsSavedState$1@1c094431, 2131296303=android.view.AbsSavedState$1@1c094431, 2131296304=android.view.AbsSavedState$1@1c094431, 2131296305=android.support.v7.widget.Toolbar$SavedState@319f2716, 2131296306=android.view.AbsSavedState$1@1c094431}}]}]
 04-14 16:58:48.245    2232-2232/edu.washington.tedtag.activityspy I/MainActivity﹕ onStart event fired
 04-14 16:58:48.245    2232-2232/edu.washington.tedtag.activityspy I/MainActivity﹕ onResume event fired
